@@ -1,2 +1,2 @@
 # HelloArguments
- C++ sample application showing arguments
+ C/C++ sample application showing arguments
